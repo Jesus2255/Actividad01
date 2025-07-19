@@ -6,7 +6,7 @@ package Veterinaria;
 
 /**
  *
- * @author estiv
+ * @author estiv cambio realizado en comentario 
  */
 public class Veterinaria {
     public static void main(String[] args) {
